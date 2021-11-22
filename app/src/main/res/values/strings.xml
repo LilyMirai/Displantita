@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">𝑫𝒊𝒔𝒑𝒍𝒂𝒏𝒕𝒊𝒕𝒂</string>
+    <string name="btnagregar">Agregar</string>
+    <string name="btnaguardar">Guardar</string>
+    <string name="hintnombre">Ingrese el nombre de la planta</string>
+    <string name="hintpweb">Ingrese una pagina web</string>
+    <string name="txttitulo">Informacion sobre la planta</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
